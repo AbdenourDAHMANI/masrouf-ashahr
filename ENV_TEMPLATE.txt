@@ -1,0 +1,13 @@
+# Copy this file to .env.local
+
+# Supabase Configuration (ALREADY FILLED IN ✅)
+NEXT_PUBLIC_SUPABASE_URL=https://brmfcprurncpywpyayns.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJybWZjcHJ1cm5jcHl3cHlheW5zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA5NTI1OTMsImV4cCI6MjA3NjUyODU5M30.x2iz7C23DAlb-20efs-jX4Al9PULFY_n6Doxia4CH7Y
+
+# WhatsApp Configuration (⚠️ UPDATE THIS WITH YOUR NUMBER!)
+NEXT_PUBLIC_WHATSAPP_NUMBER=213XXXXXXXXX
+
+# Admin Dashboard Security Token (⚠️ UPDATE THIS! Use: openssl rand -hex 32)
+ADMIN_DASH_TOKEN=change_this_to_secure_random_token
+NEXT_PUBLIC_ADMIN_DASH_TOKEN=change_this_to_secure_random_token
+
